@@ -52,7 +52,7 @@ This project implements a smart home automation system using an ESP32 microcontr
 ## 🚀 Installation
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/esp32-smart-home.git
+   git clone https://github.com/abuzar7707/Home-Auto-Project
 
 Open the project in Arduino IDE
 
